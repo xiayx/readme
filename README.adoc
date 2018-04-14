@@ -1,0 +1,25 @@
+= README
+xiayx <xiayouxue@hotmail.com>
+v1.0, 2018-04-14: SNAPSHOT
+:doctype: docbook
+:toc: left
+:numbered:
+:imagesdir: assets/images
+:source-highlighter: highlightjs
+
+总结性介绍所有资源库的基本信息以及各资源库之间的关联关系。
+作为所有资源库的入口资源库。
+
+== 个人技能
+目前掌握的主要技能是java和javascript以及基于它们的扩展技术。
+
+== 关于资源库的组织方式
+我们要记录的内容是固定的，基于资源库的表现形式分为：
+
+* 层级式
+* 扁平式
+
+== 资源库的总体规划
+* learn系列：记录个人的学习历程
+* freedom系列：记录java后台的开发类库
+
